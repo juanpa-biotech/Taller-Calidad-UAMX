@@ -97,7 +97,7 @@ a\) Elabora un plan de un solo muestreo para los lotes de producto para encerado
 
 b\) Una vez que determines el tamaño de muestra *n* y el número de aceptación *c*, genera una curva OC y una curva AOQ.
 
-c\) De la curva AOQL determina el AOQL.
+c\) De la curva AOQ determina el AOQL.
 
 d\) ¿Consideras que el plan de muestreo es conveniente? ¿Qué modificaciones harías a dicho plan?
 
