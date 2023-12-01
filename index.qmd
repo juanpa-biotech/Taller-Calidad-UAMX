@@ -1,0 +1,20 @@
+---
+title: "Taller: Estadística Descriptiva para la Evaluación de la Calidad UAM-X"
+listing:
+  contents: posts
+  sort: "title"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+¡Hola! Te doy la bienvenida. El objetivo de este taller es ofrecer una visión general del papel de la estadística descriptiva en la evaluación y control de calidad. También se abordan algunas de las herramientas que se utilizan para este fin, tales como el diagrama de Pareto o los diagramas de control.
+
+En este mini sitio puedes encontrar todos los materiales del taller organizados por tema. Al final se incluye una sección con algunos ejercicios propuestos relacionados con la industria postcosecha. El contenido completo del taller junto a otros materiales de utilidad se pueden descargar directamente en el siguiente enlace: [Documentos Taller Calidad UAMX](https://1drv.ms/f/s!Aq-N_KPbPrx08wV2DCYYjxhmXC5g?e=wzaJz4).
+
+Espero que lo visto en el taller te sea de utilidad. ¡Hasta pronto!
+
+🤓💻📉📊🍏🍊🥑

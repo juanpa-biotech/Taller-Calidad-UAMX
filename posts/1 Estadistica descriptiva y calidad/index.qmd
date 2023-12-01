@@ -1,0 +1,17 @@
+---
+title: "1 Estadística descriptiva: la calidad y la variabilidad"
+date: "2023-11-30"
+---
+
+![](img.jpg){fig-align="center" width="400"}
+
+## Presentación del tema
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114748&authkey=!AHQYb1NXoDyt49c&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Documento de Excel con Histograma, medidas de tendencia central y medidas de dispersión
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114735&authkey=!AI3PdIi2foDtJ-8&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```

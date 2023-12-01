@@ -1,0 +1,12 @@
+---
+title: "4 Diagrama de Causa-Efecto (Ishikawa)"
+date: "2023-11-30"
+---
+
+![](img.png){fig-align="center" width="350"}
+
+## Presentación del tema
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114750&authkey=!AFouq8AnGHZcx78&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```

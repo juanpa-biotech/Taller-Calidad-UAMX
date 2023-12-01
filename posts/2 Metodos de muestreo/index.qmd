@@ -1,0 +1,19 @@
+---
+title: "2 Métodos de muestreo"
+date: "2023-11-30"
+---
+
+![](img.png){fig-align="center" width="400"}
+
+## Presentación del tema
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114751&authkey=!AMfUdZ2KriNAc9Q&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Libro: Elementos de Muestreo
+
+En este libro se describen con detalle los procedimientos para calcular el tamaño de muestra dependiendo del método seleccionado.
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114755&authkey=!AKa12Reng3kgd9E&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```

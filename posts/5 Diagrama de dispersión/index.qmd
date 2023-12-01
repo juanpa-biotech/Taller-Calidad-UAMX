@@ -1,0 +1,17 @@
+---
+title: "5 Análisis de Relación entre Variables: Diagrama de Dispersión y Coeficiente de Correlación"
+date: "2023-11-30"
+---
+
+![](img.png){fig-align="center" width="400"}
+
+## Presentación del curso
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114752&authkey=!AGlv9dLAI4eoYVg&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Documento de Excel con Diagrama de dispersión
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114732&authkey=!ADQqRuoMrvK-0tk&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```

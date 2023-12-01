@@ -1,0 +1,17 @@
+---
+title: "6 Cartas o Diagramas de Control en el Monitoreo de Procesos"
+date: "2023-11-30"
+---
+
+![](img.png){fig-align="center" width="400"}
+
+## Presentación del tema
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114753&authkey=!AF6gDr54sqxC3Cw&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Documento de Excel con Diagramas de Control para Medias y Rangos
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114731&authkey=!AOUGlVa1Q3PopO4&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```

@@ -1,0 +1,35 @@
+---
+title: "7 Muestreo de Aceptación en Control de Calidad: Una Visión General"
+date: "2023-11-30"
+toc: true
+toc-location: left
+toc-title: " "
+---
+
+![](img.png){fig-align="center" width="400"}
+
+## Presentación del curso
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114754&authkey=!ABjHKMssDVI50lo&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Documento de Excel con lo Relacionado para un Muestreo por Atributos
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114733&authkey=!AHfaXfIdZ3PwyMs&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Elementos para la selección de una carta de control de atributos
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114744&authkey=!AIKU3JixeWVVit0&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Elementos para la selección de una carta de control de variables
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114745&authkey=!AMvVu3gpsFj6PIg&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Constantes para cartas de control
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114741&authkey=!ACy-WNDgHsM9qW0&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```

@@ -1,0 +1,107 @@
+---
+title: "8 Ejercicios Sugeridos"
+date: "2023-11-30"
+toc: true
+toc-location: left
+toc-title: " "
+---
+
+![](img.jfif){fig-align="center" width="400"}
+
+## Ejercicio 1
+
+Se seleccionó una muestra de bolsas de manzana *granny smith* almacenadas durante distintos tiempos.
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114737&authkey=!ANIUPl42MdmrJyA&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+a\)  De los datos de peso haga un histograma, calcule medidas de tendencia central (promedio, moda y mediana) y medidas de dispersión (desviación estándar, rango, coeficiente de variación). ¿Qué puede decir de la distribución de pesos?
+
+b)  Haga diagramas de dispersión y calcule coeficientes de correlación para contestar las siguientes preguntas:
+
+   ¿Qué relación existe entre el peso y la humedad de almacenamiento?
+
+   ¿Qué relación hay entre el peso y la temperatura de almacenamiento?
+
+   ¿Qué relación hay entre el peso y el tiempo de almacenamiento?
+
+   ¿Qué relación hay entre el peso y la calidad?
+
+   ¿Qué relación hay entre la calidad y el peso?
+
+c\) Haga un diagrama de control de medidas individuales para la temperatura de almacenamiento. Para lo anterior considere que las medidas de temperatura fueron hechas de manera consecutiva.
+
+   ¿Hay algún patrón en el diagrama?
+
+   ¿Qué sugerencia podría hacer para mejorar el desempeño de la cámara de refrigeración? 
+
+## Ejercicio 2
+
+Imagina que te han pedido mejorar el sistema de almacenamiento de frutas y hortalizas postcosecha en un comercio local. Actualmente, se han observado problemas en la calidad de almacenamiento, como pérdida de peso, cambios en el color y firmeza, así como un aumento de desperdicios.
+
+Tu tarea es identificar las posibles causas de estos problemas y proponer soluciones utilizando un diagrama de causa y efecto.
+
+Pasos:
+
+a\) Categorización de Causas:
+
+   - Cada grupo o estudiante debe identificar posibles causas para cada problema. Estas causas pueden incluir aspectos relacionados con la tecnología postcosecha, el manejo de productos, la logística de almacenamiento, etc.
+
+b\) Creación del Diagrama de Causa y Efecto:
+
+   - Cada grupo o estudiante debe crear un diagrama de causa y efecto para visualizar la relación entre los problemas observados y sus posibles causas.
+
+   - Las categorías del diagrama podrían incluir: personas, procesos, equipos, materiales, medio ambiente, etc.
+
+c\) Proponer soluciones:
+
+   - Cada grupo o estudiante debe proponer soluciones específicas para abordar las causas identificadas. Estas soluciones pueden estar relacionadas con la implementación de nuevas tecnologías, cambios en los procesos de almacenamiento, mejoras en la manipulación de productos, etc.
+
+d\) Presentación y Discusión:
+
+   - Cada grupo o estudiante presenta su diagrama de causa y efecto junto con las soluciones propuestas a la clase.
+
+   - Se fomenta la discusión para compartir ideas y enfoques.
+
+## Ejercicio 3
+
+El aguacate es una fruta muy apreciada por sus propiedades nutritivas y su sabor. Sin embargo, también es una fruta muy sensible a las condiciones de manejo postcosecha, que pueden afectar su calidad y su vida útil. En este ejercicio, se le proporciona un conjunto de datos que simula las pérdidas postcosecha de aguacate en una empresa exportadora, según diferentes causas.
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114736&authkey=!ADPP0Q3y6EQEr48&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+Las columnas en los datos significan lo siguiente:
+
+`Causas`: son los factores que pueden influir en las pérdidas postcosecha de aguacate, como el manejo postcosecha, la temperatura, el tiempo, la humedad, el tipo de almacenamiento, el uso de herbicidas y el lavado y encerado.
+
+`Pérdidas`: número de bolsas o cajas de 20 kg desechadas debido al mal estado del producto.
+
+Realice un diagrama de Pareto para identificar las causas más importantes que generan las pérdidas y proponga posibles acciones correctivas.
+
+## Ejercicio 4
+
+En la misma empresa de exportación de aguacates se recibe un producto de encerado que al aplicarse reduce las pérdidas de peso y calidad de los frutos. Dicho producto se comercializa en lotes de 500 bolsas, donde cada bolsa pesa alrededor de 100 gramos.
+
+En el último mes se han reportado varios casos de bolsas rotas y de coloración extraña (bolsas de color café en lugar de ser transparentes), lo que podría tener un impacto negativo en la calidad de los aguacates.
+
+a\) Elabora un plan de un solo muestreo para los lotes de producto para encerado considerando las siguientes especificaciones:
+
+\* α = 0.01
+
+\* β = 0.15
+
+\* AQL = 0.005
+
+\* LTPD = 0.03
+
+b\) Una vez que determines el tamaño de muestra *n* y el número de aceptación *c*, genera una curva OC y una curva AOQ.
+
+c\) De la curva AOQL determina el AOQL.
+
+d\) ¿Consideras que el plan de muestreo es conveniente? ¿Qué modificaciones harías a dicho plan?
+
+## Documento de Word con la redacción de los ejercicios
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114738&authkey=!APgotfYagNO-Saw&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```

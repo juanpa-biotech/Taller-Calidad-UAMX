@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Taller: Estadística Descriptiva para la Evaluación de la Calidad UAM-X",
+    "section": "",
+    "text": "¡Hola! Te doy la bienvenida. El objetivo de este taller es ofrecer una visión general del papel de la estadística descriptiva en la evaluación y control de calidad. También se abordan algunas de las herramientas que se utilizan para este fin, tales como el diagrama de Pareto o los diagramas de control.\nEn este mini sitio puedes encontrar todos los materiales del taller organizados por tema. Al final se incluye una sección con algunos ejercicios propuestos relacionados con la industria postcosecha. El contenido completo del taller junto a otros materiales de utilidad se pueden descargar directamente en el siguiente enlace: Documentos Taller Calidad UAMX.\nEspero que lo visto en el taller te sea de utilidad. ¡Hasta pronto!\n🤓💻📉📊🍏🍊🥑\n\n\n\n\n\n\n\n\n  \n\n\n\n\n1 Estadística descriptiva: la calidad y la variabilidad\n\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\n2 Métodos de muestreo\n\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\n3 Diagrama de Pareto\n\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\n4 Diagrama de Causa-Efecto (Ishikawa)\n\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\n5 Análisis de Relación entre Variables: Diagrama de Dispersión y Coeficiente de Correlación\n\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\n6 Cartas o Diagramas de Control en el Monitoreo de Procesos\n\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\n7 Muestreo de Aceptación en Control de Calidad: Una Visión General\n\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\n  \n\n\n\n\n8 Ejercicios Sugeridos\n\n\n\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "2 Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "1 Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/1 Estadistica descriptiva y calidad/index.html#documento-de-excel-con-histograma-medidas-de-tendencia-central-y-medidas-de-dispersión",
+    "href": "posts/1 Estadistica descriptiva y calidad/index.html#documento-de-excel-con-histograma-medidas-de-tendencia-central-y-medidas-de-dispersión",
+    "title": "1 Estadística descriptiva: la calidad y la variabilidad",
+    "section": "Documento de Excel con Histograma, medidas de tendencia central y medidas de dispersión",
+    "text": "Documento de Excel con Histograma, medidas de tendencia central y medidas de dispersión"
+  },
+  {
+    "objectID": "posts/1 Estadistica descriptiva y calidad/index.html#presentación-del-tema",
+    "href": "posts/1 Estadistica descriptiva y calidad/index.html#presentación-del-tema",
+    "title": "1 Estadística descriptiva: la calidad y la variabilidad",
+    "section": "Presentación del tema",
+    "text": "Presentación del tema"
+  },
+  {
+    "objectID": "posts/2 Metodos de muestreo/index.html#presentación-del-tema",
+    "href": "posts/2 Metodos de muestreo/index.html#presentación-del-tema",
+    "title": "2 Métodos de muestreo",
+    "section": "Presentación del tema",
+    "text": "Presentación del tema"
+  },
+  {
+    "objectID": "posts/2 Metodos de muestreo/index.html#libro-elementos-de-muestreo",
+    "href": "posts/2 Metodos de muestreo/index.html#libro-elementos-de-muestreo",
+    "title": "2 Métodos de muestreo",
+    "section": "Libro: Elementos de Muestreo",
+    "text": "Libro: Elementos de Muestreo\nEn este libro se describen con detalle los procedimientos para calcular el tamaño de muestra dependiendo del método seleccionado."
+  },
+  {
+    "objectID": "posts/3 Diagrama de Pareto/index.html#presentación-del-tema",
+    "href": "posts/3 Diagrama de Pareto/index.html#presentación-del-tema",
+    "title": "3 Diagrama de Pareto",
+    "section": "Presentación del tema",
+    "text": "Presentación del tema"
+  },
+  {
+    "objectID": "posts/3 Diagrama de Pareto/index.html#documento-de-excel-con-diagrama-de-pareto",
+    "href": "posts/3 Diagrama de Pareto/index.html#documento-de-excel-con-diagrama-de-pareto",
+    "title": "3 Diagrama de Pareto",
+    "section": "Documento de Excel con Diagrama de Pareto",
+    "text": "Documento de Excel con Diagrama de Pareto"
+  },
+  {
+    "objectID": "posts/4 Diagrama de Causa Efecto/index.html#presentación-del-tema",
+    "href": "posts/4 Diagrama de Causa Efecto/index.html#presentación-del-tema",
+    "title": "4 Diagrama de Causa-Efecto (Ishikawa)",
+    "section": "Presentación del tema",
+    "text": "Presentación del tema"
+  },
+  {
+    "objectID": "posts/5 Diagrama de dispersión/index.html#presentación-del-curso",
+    "href": "posts/5 Diagrama de dispersión/index.html#presentación-del-curso",
+    "title": "5 Análisis de Relación entre Variables: Diagrama de Dispersión y Coeficiente de Correlación",
+    "section": "Presentación del curso",
+    "text": "Presentación del curso"
+  },
+  {
+    "objectID": "posts/5 Diagrama de dispersión/index.html#documento-de-excel-con-diagrama-de-dispersión",
+    "href": "posts/5 Diagrama de dispersión/index.html#documento-de-excel-con-diagrama-de-dispersión",
+    "title": "5 Análisis de Relación entre Variables: Diagrama de Dispersión y Coeficiente de Correlación",
+    "section": "Documento de Excel con Diagrama de dispersión",
+    "text": "Documento de Excel con Diagrama de dispersión"
+  },
+  {
+    "objectID": "posts/6 Cartas o diagramas de control/index.html#presentación-del-tema",
+    "href": "posts/6 Cartas o diagramas de control/index.html#presentación-del-tema",
+    "title": "6 Cartas o Diagramas de Control en el Monitoreo de Procesos",
+    "section": "Presentación del tema",
+    "text": "Presentación del tema"
+  },
+  {
+    "objectID": "posts/6 Cartas o diagramas de control/index.html#documento-de-excel-con-diagramas-de-control-para-medias-y-rangos",
+    "href": "posts/6 Cartas o diagramas de control/index.html#documento-de-excel-con-diagramas-de-control-para-medias-y-rangos",
+    "title": "6 Cartas o Diagramas de Control en el Monitoreo de Procesos",
+    "section": "Documento de Excel con Diagramas de Control para Medias y Rangos",
+    "text": "Documento de Excel con Diagramas de Control para Medias y Rangos"
+  },
+  {
+    "objectID": "posts/7 Muestreo de aceptacion/index.html#presentación-del-curso",
+    "href": "posts/7 Muestreo de aceptacion/index.html#presentación-del-curso",
+    "title": "7 Muestreo de Aceptación en Control de Calidad: Una Visión General",
+    "section": "Presentación del curso",
+    "text": "Presentación del curso"
+  },
+  {
+    "objectID": "posts/7 Muestreo de aceptacion/index.html#documento-de-excel-con-lo-relacionado-para-un-muestreo-por-atributos",
+    "href": "posts/7 Muestreo de aceptacion/index.html#documento-de-excel-con-lo-relacionado-para-un-muestreo-por-atributos",
+    "title": "7 Muestreo de Aceptación en Control de Calidad: Una Visión General",
+    "section": "Documento de Excel con lo Relacionado para un Muestreo por Atributos",
+    "text": "Documento de Excel con lo Relacionado para un Muestreo por Atributos"
+  },
+  {
+    "objectID": "posts/8 Ejercicios/index.html#ejercicio-1",
+    "href": "posts/8 Ejercicios/index.html#ejercicio-1",
+    "title": "8 Ejercicios Sugeridos",
+    "section": "Ejercicio 1",
+    "text": "Ejercicio 1\nSe seleccionó una muestra de bolsas de manzana granny smith almacenadas durante distintos tiempos.\n\na)  De los datos de peso haga un histograma, calcule medidas de tendencia central (promedio, moda y mediana) y medidas de dispersión (desviación estándar, rango, coeficiente de variación). ¿Qué puede decir de la distribución de pesos?\nb)  Haga diagramas de dispersión y calcule coeficientes de correlación para contestar las siguientes preguntas:\n   ¿Qué relación existe entre el peso y la humedad de almacenamiento?\n   ¿Qué relación hay entre el peso y la temperatura de almacenamiento?\n   ¿Qué relación hay entre el peso y el tiempo de almacenamiento?\n   ¿Qué relación hay entre el peso y la calidad?\n   ¿Qué relación hay entre la calidad y el peso?\nc) Haga un diagrama de control de medidas individuales para la temperatura de almacenamiento. Para lo anterior considere que las medidas de temperatura fueron hechas de manera consecutiva.\n   ¿Hay algún patrón en el diagrama?\n   ¿Qué sugerencia podría hacer para mejorar el desempeño de la cámara de refrigeración?"
+  },
+  {
+    "objectID": "posts/8 Ejercicios/index.html#ejercicio-2",
+    "href": "posts/8 Ejercicios/index.html#ejercicio-2",
+    "title": "8 Ejercicios Sugeridos",
+    "section": "Ejercicio 2",
+    "text": "Ejercicio 2\nImagina que te han pedido mejorar el sistema de almacenamiento de frutas y hortalizas postcosecha en un comercio local. Actualmente, se han observado problemas en la calidad de almacenamiento, como pérdida de peso, cambios en el color y firmeza, así como un aumento de desperdicios.\nTu tarea es identificar las posibles causas de estos problemas y proponer soluciones utilizando un diagrama de causa y efecto.\nPasos:\na) Categorización de Causas:\n   - Cada grupo o estudiante debe identificar posibles causas para cada problema. Estas causas pueden incluir aspectos relacionados con la tecnología postcosecha, el manejo de productos, la logística de almacenamiento, etc.\nb) Creación del Diagrama de Causa y Efecto:\n   - Cada grupo o estudiante debe crear un diagrama de causa y efecto para visualizar la relación entre los problemas observados y sus posibles causas.\n   - Las categorías del diagrama podrían incluir: personas, procesos, equipos, materiales, medio ambiente, etc.\nc) Proponer soluciones:\n   - Cada grupo o estudiante debe proponer soluciones específicas para abordar las causas identificadas. Estas soluciones pueden estar relacionadas con la implementación de nuevas tecnologías, cambios en los procesos de almacenamiento, mejoras en la manipulación de productos, etc.\nd) Presentación y Discusión:\n   - Cada grupo o estudiante presenta su diagrama de causa y efecto junto con las soluciones propuestas a la clase.\n   - Se fomenta la discusión para compartir ideas y enfoques."
+  },
+  {
+    "objectID": "posts/8 Ejercicios/index.html#ejercicio-3",
+    "href": "posts/8 Ejercicios/index.html#ejercicio-3",
+    "title": "8 Ejercicios Sugeridos",
+    "section": "Ejercicio 3",
+    "text": "Ejercicio 3\nEl aguacate es una fruta muy apreciada por sus propiedades nutritivas y su sabor. Sin embargo, también es una fruta muy sensible a las condiciones de manejo postcosecha, que pueden afectar su calidad y su vida útil. En este ejercicio, se le proporciona un conjunto de datos que simula las pérdidas postcosecha de aguacate en una empresa exportadora, según diferentes causas.\n\nLas columnas en los datos significan lo siguiente:\nCausas: son los factores que pueden influir en las pérdidas postcosecha de aguacate, como el manejo postcosecha, la temperatura, el tiempo, la humedad, el tipo de almacenamiento, el uso de herbicidas y el lavado y encerado.\nPérdidas: número de bolsas o cajas de 20 kg desechadas debido al mal estado del producto.\nRealice un diagrama de Pareto para identificar las causas más importantes que generan las pérdidas y proponga posibles acciones correctivas."
+  },
+  {
+    "objectID": "posts/8 Ejercicios/index.html#ejercicio-4",
+    "href": "posts/8 Ejercicios/index.html#ejercicio-4",
+    "title": "8 Ejercicios Sugeridos",
+    "section": "Ejercicio 4",
+    "text": "Ejercicio 4\nEn la misma empresa de exportación de aguacates se recibe un producto de encerado que al aplicarse reduce las pérdidas de peso y calidad de los frutos. Dicho producto se comercializa en lotes de 500 bolsas, donde cada bolsa pesa alrededor de 100 gramos.\nEn el último mes se han reportado varios casos de bolsas rotas y de coloración extraña (bolsas de color café en lugar de ser transparentes), lo que podría tener un impacto negativo en la calidad de los aguacates.\na) Elabora un plan de un solo muestreo para los lotes de producto para encerado considerando las siguientes especificaciones:\n* α = 0.01\n* β = 0.15\n* AQL = 0.005\n* LTPD = 0.03\nb) Una vez que determines el tamaño de muestra n y el número de aceptación c, genera una curva OC y una curva AOQ.\nc) De la curva AOQL determina el AOQL.\nd) ¿Consideras que el plan de muestreo es conveniente? ¿Qué modificaciones harías a dicho plan?"
+  },
+  {
+    "objectID": "posts/8 Ejercicios/index.html#documento-de-word-con-la-redacción-de-los-ejercicios",
+    "href": "posts/8 Ejercicios/index.html#documento-de-word-con-la-redacción-de-los-ejercicios",
+    "title": "8 Ejercicios Sugeridos",
+    "section": "Documento de Word con la redacción de los ejercicios",
+    "text": "Documento de Word con la redacción de los ejercicios"
+  },
+  {
+    "objectID": "posts/7 Muestreo de aceptacion/index.html#elementos-para-la-selección-de-una-carta-de-control-de-atributos",
+    "href": "posts/7 Muestreo de aceptacion/index.html#elementos-para-la-selección-de-una-carta-de-control-de-atributos",
+    "title": "7 Muestreo de Aceptación en Control de Calidad: Una Visión General",
+    "section": "Elementos para la selección de una carta de control de atributos",
+    "text": "Elementos para la selección de una carta de control de atributos"
+  },
+  {
+    "objectID": "posts/7 Muestreo de aceptacion/index.html#elementos-para-la-selección-de-una-carta-de-control-de-variables",
+    "href": "posts/7 Muestreo de aceptacion/index.html#elementos-para-la-selección-de-una-carta-de-control-de-variables",
+    "title": "7 Muestreo de Aceptación en Control de Calidad: Una Visión General",
+    "section": "Elementos para la selección de una carta de control de variables",
+    "text": "Elementos para la selección de una carta de control de variables"
+  },
+  {
+    "objectID": "posts/7 Muestreo de aceptacion/index.html#constantes-para-cartas-de-control",
+    "href": "posts/7 Muestreo de aceptacion/index.html#constantes-para-cartas-de-control",
+    "title": "7 Muestreo de Aceptación en Control de Calidad: Una Visión General",
+    "section": "Constantes para cartas de control",
+    "text": "Constantes para cartas de control"
+  }
+]
