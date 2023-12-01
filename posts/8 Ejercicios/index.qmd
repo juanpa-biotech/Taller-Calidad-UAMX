@@ -4,7 +4,7 @@ date: "2023-11-30"
 toc: true
 toc-location: left
 toc-title: "Contenido"
-description: "Algunos ejercicios sugeridos para poner en práctica los conceptos y análisis abordados en taller."
+description: "Algunos ejercicios sugeridos para poner en práctica los conceptos y análisis abordados el en taller."
 ---
 
 ![](img.jfif){fig-align="center" width="400"}
