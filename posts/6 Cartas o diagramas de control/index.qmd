@@ -1,6 +1,10 @@
 ---
 title: "6 Cartas o Diagramas de Control en el Monitoreo de Procesos"
 date: "2023-11-30"
+toc: true
+toc-location: left
+toc-title: "Contenido"
+description: "Las cartas de control son un instrumento indispensable para el monitoreo y control adecuado de los procesos. El objetivo básico de una carta de control es permitir la observación y análisis de un proceso a través del tiempo, lo que permite distinguir entre causas comunes y especiales de variación."
 ---
 
 ![](img.png){fig-align="center" width="400"}
@@ -15,3 +19,14 @@ date: "2023-11-30"
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114731&authkey=!AOUGlVa1Q3PopO4&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
+## Puntos clave
+
+-   Las cartas de control son herramientas estadísticas utilizadas para defnir si un proceso de producción está en control estadístico o si existe variabilidad en el mismo que pueda ser atribuida a causas especiales.
+
+-   Cuando un proceso no está en control estadístico se pueden observar distintos patrones en una carta de control: cambios de nivel, ciclos recurrentes y mucha o muy poca variabilidad.
+
+-   Hay cartas de control para atributos y para variables cuantitativas. Todas basan su construcción en la estimación del promedio y la desviación estándar del estadístico seleccionado y posteriomente en el cálculo de límetes de control superior e inferior.
+
+-   Para elaborar e implementar una carta de control primero se necesita definir bien el problema o situación que se desee mejorar. Posteriormente se seleccionan las variables que se cuantificarán, las cartas apropiadas para dichas variables, así como el tamaño y frecuencia del muestreo.
+
+-   Una vez que se implementa, es necesario mantener el interés en la carta de control, modificarla según sea necesario y eventualmente eliminarla una vez que se ha cumplido su propósito.

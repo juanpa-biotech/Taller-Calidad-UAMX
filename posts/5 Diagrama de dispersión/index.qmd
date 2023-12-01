@@ -1,6 +1,10 @@
 ---
 title: "5 Análisis de Relación entre Variables: Diagrama de Dispersión y Coeficiente de Correlación"
 date: "2023-11-30"
+toc: true
+toc-location: left
+toc-title: "Contenido"
+description: "El diagrama de dispersión y el coeficiente de correlación permiten analizar la relación entre dos variables numéricas y definir las posibles causas de un problema."
 ---
 
 ![](img.png){fig-align="center" width="400"}
@@ -15,3 +19,12 @@ date: "2023-11-30"
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114732&authkey=!ADQqRuoMrvK-0tk&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
+## Puntos clave
+
+-   El diagrama de dispersión es útil para analizar la relación entre dos variables numéricas.
+
+-   La construcción de un diagrama de dispersión implica la obtención de datos, elección de ejes, construcción de escalas, graficado de datos y documentación del diagrama.
+
+-   La interpretación del diagrama puede revelar correlaciones fuertes, débiles o inexistentes.
+
+-   El coeficiente de correlación lineal cuantifica el grado de correlación entre dos variables. Sin embargo, que exista correlación no implica necesariamente una relación causa-efecto.

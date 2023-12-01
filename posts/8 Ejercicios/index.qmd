@@ -3,7 +3,8 @@ title: "8 Ejercicios Sugeridos"
 date: "2023-11-30"
 toc: true
 toc-location: left
-toc-title: " "
+toc-title: "Contenido"
+description: "Algunos ejercicios sugeridos para poner en práctica los conceptos y análisis abordados en taller."
 ---
 
 ![](img.jfif){fig-align="center" width="400"}

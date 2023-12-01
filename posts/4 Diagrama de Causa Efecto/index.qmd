@@ -1,6 +1,10 @@
 ---
 title: "4 Diagrama de Causa-Efecto (Ishikawa)"
 date: "2023-11-30"
+toc: true
+toc-location: left
+toc-title: "Contenido"
+description: "El diagrama de causa-efecto (Ishikawa) es una harramienta gráfica que sirve para representar y analizar la relación entre un problema y sus posibles causas."
 ---
 
 ![](img.png){fig-align="center" width="350"}
@@ -10,3 +14,10 @@ date: "2023-11-30"
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114750&authkey=!AFouq8AnGHZcx78&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
+## Puntos clave
+
+-   El diagrama de causa-efecto o diagrama de Ishikawa es una herramienta útil para analizar la relación entre un problema y sus posibles causas.
+
+-   Hay tres tipos de metodologías para la elaboración de este tipo de diagramas: el método de las 6M, el método de flujo de proceso y el método de estratificación. Cada uno tiene sus ventajas y desventajas.
+
+-   La construcción de un diagrama de causa-efecto implica definir el problema, decidir el tipo de diagrama, buscar todas las causas probables, representar las ideas en el diagrama, decidir las causas más importantes, definir cómo se abordarán dichas causas y preparar un plan de acción.

@@ -3,7 +3,8 @@ title: "7 Muestreo de Aceptación en Control de Calidad: Una Visión General"
 date: "2023-11-30"
 toc: true
 toc-location: left
-toc-title: " "
+toc-title: "Contenido"
+description: "El muestreo de aceptación es el proceso de inspección de una muestra de unidades extraídas de un lote con el propósito de aceptar o rechazar todo el lote. Esto es necesario si se quiere asegurar la calidad de materias primas o productos terminados."
 ---
 
 ![](img.png){fig-align="center" width="400"}
@@ -33,3 +34,16 @@ toc-title: " "
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114741&authkey=!ACy-WNDgHsM9qW0&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
+## Puntos clave
+
+-   El muestreo de aceptación es una metodología utilizada en la producción industrial para evaluar la calidad de los lotes de productos.
+
+-   Es posible diseñar planes de muestreo que aumenten la probabilidad de aceptar los lotes de buena calidad y reduzcan la probabilidad de aceptar los lotes de mala calidad.
+
+-   Para un plan de un solo muestreo por atributos es posible contruir una curva característica de operación y una curva de calidad promedio de salida. Ambas gráficas sirven para evaluar el desempeño o idoneidad del plan de muestreo.
+
+-   Existen varios índices que se definen para establecer las condiciones específicas de lo que se considerará como calidad aceptable, intermedia y no aceptable. Entre estos índices se encuentran el Nivel de Calidad Aceptable (*AQL*), el Nivel de Calidad Límite (*LTPD*) y la Calidad Promedio de Salida (*AOQ*).
+
+-   Existen varios métodos para diseñar planes de muestreo por atributos. Entre ellos se encuentran el método de *Cameron* y el *Military Standard 105E*.
+
+-   También hay métodos para diseñas planes de muestreo para variables continuas, tales como el *Military Standard 414*.
