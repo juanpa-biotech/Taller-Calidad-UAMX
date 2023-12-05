@@ -229,5 +229,12 @@
     "title": "7 Muestreo de Aceptación en Control de Calidad: Una Visión General",
     "section": "Puntos clave",
     "text": "Puntos clave\n\nEl muestreo de aceptación es una metodología utilizada en la producción industrial para evaluar la calidad de los lotes de productos.\nEs posible diseñar planes de muestreo que aumenten la probabilidad de aceptar los lotes de buena calidad y reduzcan la probabilidad de aceptar los lotes de mala calidad.\nPara un plan de un solo muestreo por atributos es posible contruir una curva característica de operación y una curva de calidad promedio de salida. Ambas gráficas sirven para evaluar el desempeño o idoneidad del plan de muestreo.\nExisten varios índices que se definen para establecer las condiciones específicas de lo que se considerará como calidad aceptable, intermedia y no aceptable. Entre estos índices se encuentran el Nivel de Calidad Aceptable (AQL), el Nivel de Calidad Límite (LTPD) y la Calidad Promedio de Salida (AOQ).\nExisten varios métodos para diseñar planes de muestreo por atributos. Entre ellos se encuentran el método de Cameron y el Military Standard 105E.\nTambién hay métodos para diseñas planes de muestreo para variables continuas, tales como el Military Standard 414."
+  },
+  {
+    "objectID": "posts/2 Metodos de muestreo/index.html#documento-de-excel-con-cálculos-para-estimar-el-tamaño-de-muestra",
+    "href": "posts/2 Metodos de muestreo/index.html#documento-de-excel-con-cálculos-para-estimar-el-tamaño-de-muestra",
+    "title": "2 Métodos de muestreo",
+    "section": "Documento de Excel con cálculos para estimar el tamaño de muestra",
+    "text": "Documento de Excel con cálculos para estimar el tamaño de muestra"
   }
 ]

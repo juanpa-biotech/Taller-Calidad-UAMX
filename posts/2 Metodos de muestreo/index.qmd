@@ -14,6 +14,11 @@ description: "Se describen varios métodos de muestreo aleatorio, su justificaci
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114751&authkey=!AMfUdZ2KriNAc9Q&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
+## Documento de Excel con cálculos para estimar el tamaño de muestra
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114759&authkey=!AFS96wvenCAcuUQ&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
 ## Libro: Elementos de Muestreo
 
 En este libro se describen con detalle los procedimientos para calcular el tamaño de muestra dependiendo del método seleccionado.
