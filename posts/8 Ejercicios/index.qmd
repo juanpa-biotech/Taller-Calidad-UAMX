@@ -66,7 +66,7 @@ d\) Presentación y Discusión:
 
 ## Ejercicio 3
 
-El aguacate es una fruta muy apreciada por sus propiedades nutritivas y su sabor. Sin embargo, también es una fruta muy sensible a las condiciones de manejo postcosecha, que pueden afectar su calidad y su vida útil. En este ejercicio, se le proporciona un conjunto de datos que simula las pérdidas postcosecha de aguacate en una empresa exportadora, según diferentes causas.
+El aguacate (*Persea americana*) es una fruta muy apreciada por sus propiedades nutritivas y su sabor. Sin embargo, también es una fruta muy sensible a las condiciones de manejo postcosecha, que pueden afectar su calidad y su vida útil. En este ejercicio, se le proporciona un conjunto de datos que simula las pérdidas postcosecha de aguacate en una empresa exportadora, según diferentes causas.
 
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114736&authkey=!ADPP0Q3y6EQEr48&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
@@ -100,6 +100,18 @@ b\) Una vez que determines el tamaño de muestra *n* y el número de aceptación
 c\) De la curva AOQ determina el AOQL.
 
 d\) ¿Consideras que el plan de muestreo es conveniente? ¿Qué modificaciones harías a dicho plan?
+
+## Ejercicio 5
+
+En un cultivo de fresas (*Fragaria* spp.), se ha observado la presencia de podredumbre negra causada por diversos agentes patógenos, como *Mucor* spp., *Aspergillus niger* y *Pythium* spp. Para realizar una estimación confiable de la proporción de frutos desechados debido a esta podredumbre, se desea determinar el tamaño de muestra necesario. 
+
+a\) Por un estudio piloto se obtuvo una estimación previa de que el 20% de los frutos están siendo desechados debido a la podredumbre negra (p = 0.20). Calcula el tamaño de muestra para estimar la proporción poblacional con un nivel de confianza del 95% y un margen de error tolerable del ±3%.
+
+b\) Se sabe que el número de frutos para esta temporada será de 3000. Con base en el resultado del inciso a) corrige el tamaño de la muestra.
+
+## Ejercicio 6
+
+Se quiere estimar la media poblacional del contenido de azúcar en calabacitas *(Cucurbita pepo* L.) en miligramos por mililitro (mg/mL). Supongamos que contamos con información previa que indica que la desviación estándar del contenido de azúcar en calabacitas es σ = 5 mg/mL. Calcula el tamaño de muestra con un nivel de confianza del 95% y un margen de error tolerable de ±0.5 mg/mL.
 
 ## Documento de Word con la redacción de los ejercicios
 

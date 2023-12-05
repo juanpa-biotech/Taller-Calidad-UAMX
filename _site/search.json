@@ -137,7 +137,7 @@
     "href": "posts/8 Ejercicios/index.html#ejercicio-3",
     "title": "8 Ejercicios Sugeridos",
     "section": "Ejercicio 3",
-    "text": "Ejercicio 3\nEl aguacate es una fruta muy apreciada por sus propiedades nutritivas y su sabor. Sin embargo, también es una fruta muy sensible a las condiciones de manejo postcosecha, que pueden afectar su calidad y su vida útil. En este ejercicio, se le proporciona un conjunto de datos que simula las pérdidas postcosecha de aguacate en una empresa exportadora, según diferentes causas.\n\nLas columnas en los datos significan lo siguiente:\nCausas: son los factores que pueden influir en las pérdidas postcosecha de aguacate, como el manejo postcosecha, la temperatura, el tiempo, la humedad, el tipo de almacenamiento, el uso de herbicidas y el lavado y encerado.\nPérdidas: número de bolsas o cajas de 20 kg desechadas debido al mal estado del producto.\nRealice un diagrama de Pareto para identificar las causas más importantes que generan las pérdidas y proponga posibles acciones correctivas."
+    "text": "Ejercicio 3\nEl aguacate (Persea americana) es una fruta muy apreciada por sus propiedades nutritivas y su sabor. Sin embargo, también es una fruta muy sensible a las condiciones de manejo postcosecha, que pueden afectar su calidad y su vida útil. En este ejercicio, se le proporciona un conjunto de datos que simula las pérdidas postcosecha de aguacate en una empresa exportadora, según diferentes causas.\n\nLas columnas en los datos significan lo siguiente:\nCausas: son los factores que pueden influir en las pérdidas postcosecha de aguacate, como el manejo postcosecha, la temperatura, el tiempo, la humedad, el tipo de almacenamiento, el uso de herbicidas y el lavado y encerado.\nPérdidas: número de bolsas o cajas de 20 kg desechadas debido al mal estado del producto.\nRealice un diagrama de Pareto para identificar las causas más importantes que generan las pérdidas y proponga posibles acciones correctivas."
   },
   {
     "objectID": "posts/8 Ejercicios/index.html#ejercicio-4",
@@ -236,5 +236,19 @@
     "title": "2 Métodos de muestreo",
     "section": "Documento de Excel con cálculos para estimar el tamaño de muestra",
     "text": "Documento de Excel con cálculos para estimar el tamaño de muestra"
+  },
+  {
+    "objectID": "posts/8 Ejercicios/index.html#ejercicio-5",
+    "href": "posts/8 Ejercicios/index.html#ejercicio-5",
+    "title": "8 Ejercicios Sugeridos",
+    "section": "Ejercicio 5",
+    "text": "Ejercicio 5\nEn un cultivo de fresas (Fragaria spp.), se ha observado la presencia de podredumbre negra causada por diversos agentes patógenos, como Mucor spp., Aspergillus niger y Pythium spp. Para realizar una estimación confiable de la proporción de frutos desechados debido a esta podredumbre, se desea determinar el tamaño de muestra necesario. \na) Por un estudio piloto se obtuvo una estimación previa de que el 20% de los frutos están siendo desechados debido a la podredumbre negra (p = 0.20). Calcula el tamaño de muestra para estimar la proporción poblacional con un nivel de confianza del 95% y un margen de error tolerable del ±3%.\nb) Se sabe que el número de frutos para esta temporada será de 3000. Con base en el resultado del inciso a) corrige el tamaño de la muestra."
+  },
+  {
+    "objectID": "posts/8 Ejercicios/index.html#ejercicio-6",
+    "href": "posts/8 Ejercicios/index.html#ejercicio-6",
+    "title": "8 Ejercicios Sugeridos",
+    "section": "Ejercicio 6",
+    "text": "Ejercicio 6\nSe quiere estimar la media poblacional del contenido de azúcar en calabacitas (Cucurbita pepo L.) en miligramos por mililitro (mg/mL). Supongamos que contamos con información previa que indica que la desviación estándar del contenido de azúcar en calabacitas es σ = 5 mg/mL. Calcula el tamaño de muestra con un nivel de confianza del 95% y un margen de error tolerable de ±0.5 mg/mL."
   }
 ]
