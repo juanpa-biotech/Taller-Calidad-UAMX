@@ -14,7 +14,7 @@ description: "El muestreo de aceptación es el proceso de inspección de una mue
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114754&authkey=!ABjHKMssDVI50lo&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
-## Documento de Excel con lo cálculos para un Muestreo por Atributos
+## Documento de Excel con cálculos para muestreo por atributos
 
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114733&authkey=!AHfaXfIdZ3PwyMs&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
