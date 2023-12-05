@@ -221,7 +221,7 @@
     "href": "posts/6 Cartas o diagramas de control/index.html#puntos-clave",
     "title": "6 Cartas o Diagramas de Control en el Monitoreo de Procesos",
     "section": "Puntos clave",
-    "text": "Puntos clave\n\nLas cartas de control son herramientas estadísticas utilizadas para defnir si un proceso de producción está en control estadístico o si existe variabilidad en el mismo que pueda ser atribuida a causas especiales.\nCuando un proceso no está en control estadístico se pueden observar distintos patrones en una carta de control: cambios de nivel, ciclos recurrentes y mucha o muy poca variabilidad.\nHay cartas de control para atributos y para variables cuantitativas. Todas basan su construcción en la estimación del promedio y la desviación estándar del estadístico seleccionado y posteriomente en el cálculo de límetes de control superior e inferior.\nPara elaborar e implementar una carta de control primero se necesita definir bien el problema o situación que se desee mejorar. Posteriormente se seleccionan las variables que se cuantificarán, las cartas apropiadas para dichas variables, así como el tamaño y frecuencia del muestreo.\nUna vez que se implementa, es necesario mantener el interés en la carta de control, modificarla según sea necesario y eventualmente eliminarla una vez que se ha cumplido su propósito."
+    "text": "Puntos clave\n\nLas cartas de control son herramientas estadísticas utilizadas para definir si un proceso de producción está en control estadístico o si existe variabilidad en el mismo que pueda ser atribuida a causas especiales.\nCuando un proceso no está en control estadístico se pueden observar distintos patrones en una carta de control: cambios de nivel, ciclos recurrentes y mucha o muy poca variabilidad.\nHay cartas de control para atributos y para variables cuantitativas. Todas basan su construcción en la estimación del promedio y la desviación estándar del estadístico seleccionado y posteriormente en el cálculo de límites de control superior e inferior.\nPara elaborar e implementar una carta de control primero se necesita definir bien el problema o situación que se desee mejorar. Posteriormente se seleccionan las variables que se cuantificarán, las cartas apropiadas para dichas variables, así como el tamaño y frecuencia del muestreo.\nUna vez que se implementa, es necesario mantener el interés en la carta de control, modificarla según sea necesario y eventualmente eliminarla una vez que se ha cumplido su propósito."
   },
   {
     "objectID": "posts/7 Muestreo de aceptacion/index.html#puntos-clave",
@@ -250,5 +250,33 @@
     "title": "8 Ejercicios Sugeridos",
     "section": "Ejercicio 6",
     "text": "Ejercicio 6\nSe quiere estimar la media poblacional del contenido de azúcar en calabacitas (Cucurbita pepo L.) en miligramos por mililitro (mg/mL). Supongamos que contamos con información previa que indica que la desviación estándar del contenido de azúcar en calabacitas es σ = 5 mg/mL. Calcula el tamaño de muestra con un nivel de confianza del 95% y un margen de error tolerable de ±0.5 mg/mL."
+  },
+  {
+    "objectID": "posts/6 Cartas o diagramas de control/index.html#elementos-para-la-selección-de-una-carta-de-control-de-atributos",
+    "href": "posts/6 Cartas o diagramas de control/index.html#elementos-para-la-selección-de-una-carta-de-control-de-atributos",
+    "title": "6 Cartas o Diagramas de Control en el Monitoreo de Procesos",
+    "section": "Elementos para la selección de una carta de control de atributos",
+    "text": "Elementos para la selección de una carta de control de atributos"
+  },
+  {
+    "objectID": "posts/6 Cartas o diagramas de control/index.html#elementos-para-la-selección-de-una-carta-de-control-de-variables",
+    "href": "posts/6 Cartas o diagramas de control/index.html#elementos-para-la-selección-de-una-carta-de-control-de-variables",
+    "title": "6 Cartas o Diagramas de Control en el Monitoreo de Procesos",
+    "section": "Elementos para la selección de una carta de control de variables",
+    "text": "Elementos para la selección de una carta de control de variables"
+  },
+  {
+    "objectID": "posts/6 Cartas o diagramas de control/index.html#constantes-para-cartas-de-control",
+    "href": "posts/6 Cartas o diagramas de control/index.html#constantes-para-cartas-de-control",
+    "title": "6 Cartas o Diagramas de Control en el Monitoreo de Procesos",
+    "section": "Constantes para cartas de control",
+    "text": "Constantes para cartas de control"
+  },
+  {
+    "objectID": "posts/7 Muestreo de aceptacion/index.html#documento-de-excel-con-lo-cálculos-para-un-muestreo-por-atributos",
+    "href": "posts/7 Muestreo de aceptacion/index.html#documento-de-excel-con-lo-cálculos-para-un-muestreo-por-atributos",
+    "title": "7 Muestreo de Aceptación en Control de Calidad: Una Visión General",
+    "section": "Documento de Excel con lo cálculos para un Muestreo por Atributos",
+    "text": "Documento de Excel con lo cálculos para un Muestreo por Atributos"
   }
 ]

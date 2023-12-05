@@ -19,13 +19,30 @@ description: "Las cartas de control son un instrumento indispensable para el mon
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114731&authkey=!AOUGlVa1Q3PopO4&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
+## Elementos para la selección de una carta de control de atributos
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114744&authkey=!AIKU3JixeWVVit0&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Elementos para la selección de una carta de control de variables
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114745&authkey=!AMvVu3gpsFj6PIg&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Constantes para cartas de control
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114741&authkey=!ACy-WNDgHsM9qW0&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## 
+
 ## Puntos clave
 
--   Las cartas de control son herramientas estadísticas utilizadas para defnir si un proceso de producción está en control estadístico o si existe variabilidad en el mismo que pueda ser atribuida a causas especiales.
+-   Las cartas de control son herramientas estadísticas utilizadas para definir si un proceso de producción está en control estadístico o si existe variabilidad en el mismo que pueda ser atribuida a causas especiales.
 
 -   Cuando un proceso no está en control estadístico se pueden observar distintos patrones en una carta de control: cambios de nivel, ciclos recurrentes y mucha o muy poca variabilidad.
 
--   Hay cartas de control para atributos y para variables cuantitativas. Todas basan su construcción en la estimación del promedio y la desviación estándar del estadístico seleccionado y posteriomente en el cálculo de límetes de control superior e inferior.
+-   Hay cartas de control para atributos y para variables cuantitativas. Todas basan su construcción en la estimación del promedio y la desviación estándar del estadístico seleccionado y posteriormente en el cálculo de límites de control superior e inferior.
 
 -   Para elaborar e implementar una carta de control primero se necesita definir bien el problema o situación que se desee mejorar. Posteriormente se seleccionan las variables que se cuantificarán, las cartas apropiadas para dichas variables, así como el tamaño y frecuencia del muestreo.
 
