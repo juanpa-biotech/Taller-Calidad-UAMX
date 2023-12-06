@@ -14,10 +14,15 @@ description: "El diagrama de dispersión y el coeficiente de correlación permit
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114752&authkey=!AGlv9dLAI4eoYVg&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
-## Documento de Excel con Diagrama de dispersión
+## Documento de Excel con diagrama de dispersión
 
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114732&authkey=!ADQqRuoMrvK-0tk&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Cuestionario de opción múltiple
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114771&authkey=!AJKeSK2UTDHYgC8&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
 ## Puntos clave
 

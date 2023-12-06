@@ -26,6 +26,11 @@ En este libro se describen con detalle los procedimientos para calcular el tama�
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114755&authkey=!AKa12Reng3kgd9E&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
+## Cuestionario de opción múltiple
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114769&authkey=!AEy1sQdwhG7FRwU&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
 ## Puntos clave
 
 -   Los métodos de muestreo son fundamentales para obtener información sobre problemas, consumidores y procesos.

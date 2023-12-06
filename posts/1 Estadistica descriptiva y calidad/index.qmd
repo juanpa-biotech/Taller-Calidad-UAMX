@@ -14,10 +14,15 @@ description: "En este tema se revisa el papel de la estadística descriptiva en 
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114748&authkey=!AHQYb1NXoDyt49c&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
-## Documento de Excel con Histograma, medidas de tendencia central y medidas de dispersión
+## Documento de Excel con histograma, medidas de tendencia central y medidas de dispersión
 
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114735&authkey=!AI3PdIi2foDtJ-8&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Cuestionario de opción múltiple
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114767&authkey=!ALD-rfiN0Ia-zNs&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
 ## Puntos clave
 

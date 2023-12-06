@@ -14,10 +14,15 @@ description: "El diagrama de Pareto es una gráfica que se utiliza con el objeti
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114749&authkey=!AEkwbhSBa44i2m8&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
-## Documento de Excel con Diagrama de Pareto
+## Documento de Excel con diagrama de Pareto
 
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114734&authkey=!AIyM7fHEWW31eRs&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
+## Cuestionario de opción múltiple
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114768&authkey=!AOL-608vFk-4Yk0&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
 ## Puntos clave
 
@@ -27,4 +32,4 @@ description: "El diagrama de Pareto es una gráfica que se utiliza con el objeti
 
 -   Se utiliza para analizar problemas de calidad, eficiencia, conservación de materiales, ahorro de energía, seguridad, entre otros.
 
--    La construcción de un Diagrama de Pareto implica decidir el problema a abordar, recopilar datos, construir una tabla con la frecuencia de cada defecto, construir un gráfico de barras y documentar referencias.
+-   La construcción de un Diagrama de Pareto implica decidir el problema a abordar, recopilar datos, construir una tabla con la frecuencia de cada defecto, construir un gráfico de barras y documentar referencias.

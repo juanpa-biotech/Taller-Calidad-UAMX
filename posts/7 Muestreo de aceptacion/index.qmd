@@ -19,6 +19,11 @@ description: "El muestreo de aceptación es el proceso de inspección de una mue
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114733&authkey=!AHfaXfIdZ3PwyMs&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
+## Cuestionario de opción múltiple
+
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114773&authkey=!AP7lQm8VioDv4tQ&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
 ## Puntos clave
 
 -   El muestreo de aceptación es una metodología utilizada en la producción industrial para evaluar la calidad de los lotes de productos.

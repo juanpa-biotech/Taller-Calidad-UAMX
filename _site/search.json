@@ -31,8 +31,8 @@
     "objectID": "posts/1 Estadistica descriptiva y calidad/index.html#documento-de-excel-con-histograma-medidas-de-tendencia-central-y-medidas-de-dispersión",
     "href": "posts/1 Estadistica descriptiva y calidad/index.html#documento-de-excel-con-histograma-medidas-de-tendencia-central-y-medidas-de-dispersión",
     "title": "1 Estadística descriptiva: la calidad y la variabilidad",
-    "section": "Documento de Excel con Histograma, medidas de tendencia central y medidas de dispersión",
-    "text": "Documento de Excel con Histograma, medidas de tendencia central y medidas de dispersión"
+    "section": "Documento de Excel con histograma, medidas de tendencia central y medidas de dispersión",
+    "text": "Documento de Excel con histograma, medidas de tendencia central y medidas de dispersión"
   },
   {
     "objectID": "posts/1 Estadistica descriptiva y calidad/index.html#presentación-del-tema",
@@ -66,8 +66,8 @@
     "objectID": "posts/3 Diagrama de Pareto/index.html#documento-de-excel-con-diagrama-de-pareto",
     "href": "posts/3 Diagrama de Pareto/index.html#documento-de-excel-con-diagrama-de-pareto",
     "title": "3 Diagrama de Pareto",
-    "section": "Documento de Excel con Diagrama de Pareto",
-    "text": "Documento de Excel con Diagrama de Pareto"
+    "section": "Documento de Excel con diagrama de Pareto",
+    "text": "Documento de Excel con diagrama de Pareto"
   },
   {
     "objectID": "posts/4 Diagrama de Causa Efecto/index.html#presentación-del-tema",
@@ -87,8 +87,8 @@
     "objectID": "posts/5 Diagrama de dispersión/index.html#documento-de-excel-con-diagrama-de-dispersión",
     "href": "posts/5 Diagrama de dispersión/index.html#documento-de-excel-con-diagrama-de-dispersión",
     "title": "5 Análisis de Relación entre Variables: Diagrama de Dispersión y Coeficiente de Correlación",
-    "section": "Documento de Excel con Diagrama de dispersión",
-    "text": "Documento de Excel con Diagrama de dispersión"
+    "section": "Documento de Excel con diagrama de dispersión",
+    "text": "Documento de Excel con diagrama de dispersión"
   },
   {
     "objectID": "posts/6 Cartas o diagramas de control/index.html#presentación-del-tema",
@@ -101,8 +101,8 @@
     "objectID": "posts/6 Cartas o diagramas de control/index.html#documento-de-excel-con-diagramas-de-control-para-medias-y-rangos",
     "href": "posts/6 Cartas o diagramas de control/index.html#documento-de-excel-con-diagramas-de-control-para-medias-y-rangos",
     "title": "6 Cartas o Diagramas de Control en el Monitoreo de Procesos",
-    "section": "Documento de Excel con Diagramas de Control para Medias y Rangos",
-    "text": "Documento de Excel con Diagramas de Control para Medias y Rangos"
+    "section": "Documento de Excel con diagramas de control para medias y rangos",
+    "text": "Documento de Excel con diagramas de control para medias y rangos"
   },
   {
     "objectID": "posts/7 Muestreo de aceptacion/index.html#presentación-del-curso",
@@ -285,5 +285,54 @@
     "title": "7 Muestreo de Aceptación en Control de Calidad: Una Visión General",
     "section": "Documento de Excel con cálculos para muestreo por atributos",
     "text": "Documento de Excel con cálculos para muestreo por atributos"
+  },
+  {
+    "objectID": "posts/1 Estadistica descriptiva y calidad/index.html#cuestionario-de-opción-múltiple",
+    "href": "posts/1 Estadistica descriptiva y calidad/index.html#cuestionario-de-opción-múltiple",
+    "title": "1 Estadística descriptiva: la calidad y la variabilidad",
+    "section": "Cuestionario de opción múltiple",
+    "text": "Cuestionario de opción múltiple"
+  },
+  {
+    "objectID": "posts/2 Metodos de muestreo/index.html#cuestionario-de-opción-múltiple",
+    "href": "posts/2 Metodos de muestreo/index.html#cuestionario-de-opción-múltiple",
+    "title": "2 Métodos de muestreo",
+    "section": "Cuestionario de opción múltiple",
+    "text": "Cuestionario de opción múltiple"
+  },
+  {
+    "objectID": "posts/3 Diagrama de Pareto/index.html#cuestionario-de-opción-múltiple",
+    "href": "posts/3 Diagrama de Pareto/index.html#cuestionario-de-opción-múltiple",
+    "title": "3 Diagrama de Pareto",
+    "section": "Cuestionario de opción múltiple",
+    "text": "Cuestionario de opción múltiple"
+  },
+  {
+    "objectID": "posts/4 Diagrama de Causa Efecto/index.html#cuestionario-de-opción-múltiple",
+    "href": "posts/4 Diagrama de Causa Efecto/index.html#cuestionario-de-opción-múltiple",
+    "title": "4 Diagrama de Causa-Efecto (Ishikawa)",
+    "section": "Cuestionario de opción múltiple",
+    "text": "Cuestionario de opción múltiple"
+  },
+  {
+    "objectID": "posts/5 Diagrama de dispersión/index.html#cuestionario-de-opción-múltiple",
+    "href": "posts/5 Diagrama de dispersión/index.html#cuestionario-de-opción-múltiple",
+    "title": "5 Análisis de Relación entre Variables: Diagrama de Dispersión y Coeficiente de Correlación",
+    "section": "Cuestionario de opción múltiple",
+    "text": "Cuestionario de opción múltiple"
+  },
+  {
+    "objectID": "posts/6 Cartas o diagramas de control/index.html#cuestionario-de-opción-múltiple",
+    "href": "posts/6 Cartas o diagramas de control/index.html#cuestionario-de-opción-múltiple",
+    "title": "6 Cartas o Diagramas de Control en el Monitoreo de Procesos",
+    "section": "Cuestionario de opción múltiple",
+    "text": "Cuestionario de opción múltiple"
+  },
+  {
+    "objectID": "posts/7 Muestreo de aceptacion/index.html#cuestionario-de-opción-múltiple",
+    "href": "posts/7 Muestreo de aceptacion/index.html#cuestionario-de-opción-múltiple",
+    "title": "7 Muestreo de Aceptación en Control de Calidad: Una Visión General",
+    "section": "Cuestionario de opción múltiple",
+    "text": "Cuestionario de opción múltiple"
   }
 ]

@@ -14,7 +14,7 @@ description: "Las cartas de control son un instrumento indispensable para el mon
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114753&authkey=!AF6gDr54sqxC3Cw&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
-## Documento de Excel con Diagramas de Control para Medias y Rangos
+## Documento de Excel con diagramas de control para medias y rangos
 
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114731&authkey=!AOUGlVa1Q3PopO4&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
@@ -34,8 +34,11 @@ description: "Las cartas de control son un instrumento indispensable para el mon
 ```{=html}
 <iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114741&authkey=!ACy-WNDgHsM9qW0&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 ```
-## 
+## Cuestionario de opción múltiple
 
+```{=html}
+<iframe src="https://onedrive.live.com/embed?resid=74BC3EDBA3FC8DAF%2114772&authkey=!AEbLmd6zKRaAgPU&em=2" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+```
 ## Puntos clave
 
 -   Las cartas de control son herramientas estadísticas utilizadas para definir si un proceso de producción está en control estadístico o si existe variabilidad en el mismo que pueda ser atribuida a causas especiales.
